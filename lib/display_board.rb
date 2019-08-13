@@ -4,3 +4,5 @@ def display_board
   9.times{board << ' '}
   puts board
 end
+
+display_board
